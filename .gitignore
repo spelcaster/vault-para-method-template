@@ -1,0 +1,16 @@
+# --- Obsidian Caches and Volatile Files ---
+.obsidian/backups/
+.obsidian/cache
+.obsidian/cache/
+.obsidian/graph.json
+.obsidian/plugins/*/data.json
+.obsidian/plugins/remember-cursor-position/cursor-positions.json
+.obsidian/sync-log.txt
+.obsidian/workspace-mobile.json
+.obsidian/workspace.json
+.obsidian/workspaces.json
+.trash/
+
+# --- Operating System Garbage ---
+.DS_Store
+Thumbs.db
