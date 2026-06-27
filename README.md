@@ -37,6 +37,19 @@ can become a project, a project can be archived, and so on.
 2. Read `PARA Method.md` for a fuller explanation of the system.
 3. Start dropping notes into `0_inbox` and sorting from there.
 
+## Recommended theme
+
+For a comfortable, easy-on-the-eyes reading and writing experience, try
+[**Material Gruvbox**](https://github.com/alljavi/material_gruvbox_obsidian) — a
+warm, low-contrast theme based on the popular Gruvbox palette, with both light
+and dark variants.
+
+To install it from within Obsidian:
+
+1. Open **Settings → Appearance → Themes → Manage**.
+2. Search for **Material Gruvbox**, then click **Install and use**.
+3. Switch between the light and dark variants from **Settings → Appearance → Base color scheme**.
+
 ## Learn more
 
 - [The PARA Method — Tiago Forte](https://fortelabs.com/blog/para/)
