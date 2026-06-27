@@ -19,6 +19,23 @@ subjects you have to maintain.
 A fifth folder, `0_inbox`, is a capture spot for anything not yet sorted. Process
 it regularly and move each note into the category that fits.
 
+## Nodes
+
+The `nodes` folder holds short Markdown files named after individual **terms,
+abbreviations, acronyms, and concepts** — one file per term. Each acts as a
+central reference point for that idea across the vault.
+
+Their purpose is to strengthen Obsidian's [graph view](https://help.obsidian.md/plugins/graph)
+and backlinks: instead of scattering the same concept across many notes, you link
+to a single node (e.g. `[[CAP theorem]]` or `[[PARA]]`). Over time the graph
+reveals how your notes connect through these shared references, and any node's
+backlinks pane becomes a map of everywhere the term comes up.
+
+- Create a node the first time a term is worth linking to.
+- Keep nodes short — a definition or a sentence of context is enough; the value
+  is in the connections, not the length.
+- Link to nodes freely from notes in any PARA folder.
+
 ## How it works
 
 - **Capture** new notes in `0_inbox`.
